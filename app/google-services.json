@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059986843416",
+    "project_id": "hover-3d87d",
+    "storage_bucket": "hover-3d87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059986843416:android:89c3a62b88103d9706a06d",
+        "android_client_info": {
+          "package_name": "com.jalilasif.hover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059986843416-evtvrqtvnkk79b554fghg9ev381ics0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Es3NHQDhUz2m6KpUryu7M8vPctG7ql8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059986843416-evtvrqtvnkk79b554fghg9ev381ics0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
